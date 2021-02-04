@@ -1,0 +1,10 @@
+{
+  "name": "Natours",
+  "version": "1.0.0",
+  "description": "natours by wizzie",
+  "main": "app.js",
+  "repository": "https://github.com/WIZZIE-DEV/Natours.git",
+  "author": "wisdom ekeh <wisdom.dev@outlook.com>",
+  "license": "MIT",
+  "private": true
+}
